@@ -1,4 +1,4 @@
-ENGO 551 Lab 3 
+ENGO 551 Lab 4 
 
 This project uses the index.html, script.js, styles.css files.
 
